@@ -145,3 +145,5 @@ Example:
 
 ![Dashboard Screenshot](dashboard.png)
 
+![Dashboard Screenshot](dashboard2.png)
+
